@@ -19,6 +19,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
