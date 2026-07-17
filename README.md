@@ -24,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -58,4 +59,16 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
