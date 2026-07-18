@@ -33,6 +33,7 @@
 | [0020-valid-parentheses](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0058-length-of-last-word) |
+| [1768-merge-strings-alternately](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
