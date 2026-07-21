@@ -12,6 +12,7 @@
 | [0014-longest-common-prefix](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+| [0605-can-place-flowers](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
