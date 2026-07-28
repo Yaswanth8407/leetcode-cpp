@@ -41,6 +41,7 @@
 | [0058-length-of-last-word](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
@@ -57,6 +58,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
 ## String Matching
@@ -78,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
