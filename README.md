@@ -50,10 +50,12 @@
 | [0443-string-compression](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
