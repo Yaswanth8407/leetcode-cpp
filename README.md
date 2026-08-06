@@ -36,6 +36,7 @@
 | [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/2390-removing-stars-from-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
