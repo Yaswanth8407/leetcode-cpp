@@ -12,6 +12,7 @@
 | [0014-longest-common-prefix](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0069-sqrtx) |
 ## Trie
 |  |
