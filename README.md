@@ -34,6 +34,7 @@
 | [0009-palindrome-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -101,6 +102,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
