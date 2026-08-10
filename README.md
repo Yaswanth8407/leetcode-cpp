@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -129,4 +132,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
