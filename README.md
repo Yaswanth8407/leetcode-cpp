@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0334-increasing-triplet-subsequence) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0169-majority-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -138,4 +141,16 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
