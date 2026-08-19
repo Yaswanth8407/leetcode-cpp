@@ -153,4 +153,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
