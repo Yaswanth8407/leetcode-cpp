@@ -23,6 +23,7 @@
 | [0877-stone-game](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/2390-removing-stars-from-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
 | ------- |
