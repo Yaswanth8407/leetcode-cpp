@@ -161,4 +161,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0237-delete-node-in-a-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yaswanth8407/leetcode-cpp/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
